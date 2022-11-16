@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "odnomerMass/1.0.0": {
+        "dependencies": {
+          "odnomerMassLib": "1.0.0"
+        },
+        "runtime": {
+          "odnomerMass.dll": {}
+        }
+      },
+      "odnomerMassLib/1.0.0": {
+        "runtime": {
+          "odnomerMassLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "odnomerMass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "odnomerMassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

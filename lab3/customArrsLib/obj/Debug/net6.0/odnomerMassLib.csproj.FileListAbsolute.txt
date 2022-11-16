@@ -1,0 +1,12 @@
+F:\УНИВЕР КОМП\ООП\3lab\customArrsLib\bin\Debug\net6.0\odnomerMassLib.deps.json
+F:\УНИВЕР КОМП\ООП\3lab\customArrsLib\bin\Debug\net6.0\odnomerMassLib.dll
+F:\УНИВЕР КОМП\ООП\3lab\customArrsLib\bin\Debug\net6.0\odnomerMassLib.pdb
+F:\УНИВЕР КОМП\ООП\3lab\customArrsLib\obj\Debug\net6.0\odnomerMassLib.csproj.AssemblyReference.cache
+F:\УНИВЕР КОМП\ООП\3lab\customArrsLib\obj\Debug\net6.0\odnomerMassLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\УНИВЕР КОМП\ООП\3lab\customArrsLib\obj\Debug\net6.0\odnomerMassLib.AssemblyInfoInputs.cache
+F:\УНИВЕР КОМП\ООП\3lab\customArrsLib\obj\Debug\net6.0\odnomerMassLib.AssemblyInfo.cs
+F:\УНИВЕР КОМП\ООП\3lab\customArrsLib\obj\Debug\net6.0\odnomerMassLib.csproj.CoreCompileInputs.cache
+F:\УНИВЕР КОМП\ООП\3lab\customArrsLib\obj\Debug\net6.0\odnomerMassLib.dll
+F:\УНИВЕР КОМП\ООП\3lab\customArrsLib\obj\Debug\net6.0\refint\odnomerMassLib.dll
+F:\УНИВЕР КОМП\ООП\3lab\customArrsLib\obj\Debug\net6.0\odnomerMassLib.pdb
+F:\УНИВЕР КОМП\ООП\3lab\customArrsLib\obj\Debug\net6.0\ref\odnomerMassLib.dll

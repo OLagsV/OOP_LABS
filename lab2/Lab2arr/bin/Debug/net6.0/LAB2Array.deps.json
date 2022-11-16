@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LAB2Array/1.0.0": {
+        "dependencies": {
+          "ArrLib": "1.0.0"
+        },
+        "runtime": {
+          "LAB2Array.dll": {}
+        }
+      },
+      "ArrLib/1.0.0": {
+        "runtime": {
+          "ArrLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB2Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArrLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,45 @@
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\bin\Debug\net6.0\lab1norm.exe
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\bin\Debug\net6.0\lab1norm.deps.json
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\bin\Debug\net6.0\lab1norm.runtimeconfig.json
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\bin\Debug\net6.0\lab1norm.dll
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\bin\Debug\net6.0\lab1norm.pdb
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\obj\Debug\net6.0\lab1norm.csproj.AssemblyReference.cache
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\obj\Debug\net6.0\lab1norm.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\obj\Debug\net6.0\lab1norm.AssemblyInfoInputs.cache
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\obj\Debug\net6.0\lab1norm.AssemblyInfo.cs
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\obj\Debug\net6.0\lab1norm.csproj.CoreCompileInputs.cache
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\obj\Debug\net6.0\lab1norm.dll
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\obj\Debug\net6.0\refint\lab1norm.dll
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\obj\Debug\net6.0\lab1norm.pdb
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\obj\Debug\net6.0\lab1norm.genruntimeconfig.cache
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1norm\obj\Debug\net6.0\ref\lab1norm.dll
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\bin\Debug\net6.0\lab1norm.exe
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\bin\Debug\net6.0\lab1norm.deps.json
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\bin\Debug\net6.0\lab1norm.runtimeconfig.json
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\bin\Debug\net6.0\lab1norm.dll
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\bin\Debug\net6.0\lab1norm.pdb
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\obj\Debug\net6.0\lab1norm.csproj.AssemblyReference.cache
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\obj\Debug\net6.0\lab1norm.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\obj\Debug\net6.0\lab1norm.AssemblyInfoInputs.cache
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\obj\Debug\net6.0\lab1norm.AssemblyInfo.cs
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\obj\Debug\net6.0\lab1norm.csproj.CoreCompileInputs.cache
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\obj\Debug\net6.0\lab1norm.dll
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\obj\Debug\net6.0\refint\lab1norm.dll
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\obj\Debug\net6.0\lab1norm.pdb
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\obj\Debug\net6.0\lab1norm.genruntimeconfig.cache
+D:\УНИВЕР КОМП\КПиЯП\lab1\lab1 13\obj\Debug\net6.0\ref\lab1norm.dll
+F:\ООП\lab1 oleg\lab1 13\bin\Debug\net6.0\lab1norm.exe
+F:\ООП\lab1 oleg\lab1 13\bin\Debug\net6.0\lab1norm.deps.json
+F:\ООП\lab1 oleg\lab1 13\bin\Debug\net6.0\lab1norm.runtimeconfig.json
+F:\ООП\lab1 oleg\lab1 13\bin\Debug\net6.0\lab1norm.dll
+F:\ООП\lab1 oleg\lab1 13\bin\Debug\net6.0\lab1norm.pdb
+F:\ООП\lab1 oleg\lab1 13\obj\Debug\net6.0\lab1norm.csproj.AssemblyReference.cache
+F:\ООП\lab1 oleg\lab1 13\obj\Debug\net6.0\lab1norm.GeneratedMSBuildEditorConfig.editorconfig
+F:\ООП\lab1 oleg\lab1 13\obj\Debug\net6.0\lab1norm.AssemblyInfoInputs.cache
+F:\ООП\lab1 oleg\lab1 13\obj\Debug\net6.0\lab1norm.AssemblyInfo.cs
+F:\ООП\lab1 oleg\lab1 13\obj\Debug\net6.0\lab1norm.csproj.CoreCompileInputs.cache
+F:\ООП\lab1 oleg\lab1 13\obj\Debug\net6.0\lab1norm.dll
+F:\ООП\lab1 oleg\lab1 13\obj\Debug\net6.0\refint\lab1norm.dll
+F:\ООП\lab1 oleg\lab1 13\obj\Debug\net6.0\lab1norm.pdb
+F:\ООП\lab1 oleg\lab1 13\obj\Debug\net6.0\lab1norm.genruntimeconfig.cache
+F:\ООП\lab1 oleg\lab1 13\obj\Debug\net6.0\ref\lab1norm.dll

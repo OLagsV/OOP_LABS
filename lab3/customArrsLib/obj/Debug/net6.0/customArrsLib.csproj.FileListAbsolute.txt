@@ -1,0 +1,12 @@
+F:\УНИВЕР КОМП\ООП\lab3\customArrsLib\bin\Debug\net6.0\customArrsLib.deps.json
+F:\УНИВЕР КОМП\ООП\lab3\customArrsLib\bin\Debug\net6.0\customArrsLib.dll
+F:\УНИВЕР КОМП\ООП\lab3\customArrsLib\bin\Debug\net6.0\customArrsLib.pdb
+F:\УНИВЕР КОМП\ООП\lab3\customArrsLib\obj\Debug\net6.0\customArrsLib.csproj.AssemblyReference.cache
+F:\УНИВЕР КОМП\ООП\lab3\customArrsLib\obj\Debug\net6.0\customArrsLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\УНИВЕР КОМП\ООП\lab3\customArrsLib\obj\Debug\net6.0\customArrsLib.AssemblyInfoInputs.cache
+F:\УНИВЕР КОМП\ООП\lab3\customArrsLib\obj\Debug\net6.0\customArrsLib.AssemblyInfo.cs
+F:\УНИВЕР КОМП\ООП\lab3\customArrsLib\obj\Debug\net6.0\customArrsLib.csproj.CoreCompileInputs.cache
+F:\УНИВЕР КОМП\ООП\lab3\customArrsLib\obj\Debug\net6.0\customArrsLib.dll
+F:\УНИВЕР КОМП\ООП\lab3\customArrsLib\obj\Debug\net6.0\refint\customArrsLib.dll
+F:\УНИВЕР КОМП\ООП\lab3\customArrsLib\obj\Debug\net6.0\customArrsLib.pdb
+F:\УНИВЕР КОМП\ООП\lab3\customArrsLib\obj\Debug\net6.0\ref\customArrsLib.dll

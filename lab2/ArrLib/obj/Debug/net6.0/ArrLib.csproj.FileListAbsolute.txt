@@ -1,0 +1,48 @@
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\bin\Debug\net6.0\ArrLib.deps.json
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\bin\Debug\net6.0\ArrLib.dll
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\bin\Debug\net6.0\ArrLib.pdb
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ArrLib.csproj.AssemblyReference.cache
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ArrLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ArrLib.AssemblyInfoInputs.cache
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ArrLib.AssemblyInfo.cs
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ArrLib.csproj.CoreCompileInputs.cache
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ArrLib.dll
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\refint\ArrLib.dll
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ArrLib.pdb
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ref\ArrLib.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\bin\Debug\net6.0\ArrLib.deps.json
+D:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\bin\Debug\net6.0\ArrLib.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\bin\Debug\net6.0\ArrLib.pdb
+D:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ArrLib.csproj.AssemblyReference.cache
+D:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ArrLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ArrLib.AssemblyInfoInputs.cache
+D:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ArrLib.AssemblyInfo.cs
+D:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ArrLib.csproj.CoreCompileInputs.cache
+D:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ArrLib.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\refint\ArrLib.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ArrLib.pdb
+D:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ref\ArrLib.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\bin\Debug\net6.0\ArrLib.deps.json
+F:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\bin\Debug\net6.0\ArrLib.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\bin\Debug\net6.0\ArrLib.pdb
+F:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ArrLib.csproj.AssemblyReference.cache
+F:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ArrLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ArrLib.AssemblyInfoInputs.cache
+F:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ArrLib.AssemblyInfo.cs
+F:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ArrLib.csproj.CoreCompileInputs.cache
+F:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ArrLib.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\refint\ArrLib.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ArrLib.pdb
+F:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ref\ArrLib.dll
+D:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\bin\Debug\net6.0\ArrLib.deps.json
+D:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\bin\Debug\net6.0\ArrLib.dll
+D:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\bin\Debug\net6.0\ArrLib.pdb
+D:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ArrLib.csproj.AssemblyReference.cache
+D:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ArrLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ArrLib.AssemblyInfoInputs.cache
+D:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ArrLib.AssemblyInfo.cs
+D:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ArrLib.csproj.CoreCompileInputs.cache
+D:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ArrLib.dll
+D:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\refint\ArrLib.dll
+D:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ArrLib.pdb
+D:\УНИВЕР КОМП\ООП\oop lab2\IntegralLib\obj\Debug\net6.0\ref\ArrLib.dll
