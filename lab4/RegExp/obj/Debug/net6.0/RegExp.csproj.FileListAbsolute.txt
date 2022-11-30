@@ -1,0 +1,15 @@
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\bin\Debug\net6.0\RegExp.exe
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\bin\Debug\net6.0\RegExp.deps.json
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\bin\Debug\net6.0\RegExp.runtimeconfig.json
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\bin\Debug\net6.0\RegExp.dll
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\bin\Debug\net6.0\RegExp.pdb
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\obj\Debug\net6.0\RegExp.csproj.AssemblyReference.cache
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\obj\Debug\net6.0\RegExp.GeneratedMSBuildEditorConfig.editorconfig
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\obj\Debug\net6.0\RegExp.AssemblyInfoInputs.cache
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\obj\Debug\net6.0\RegExp.AssemblyInfo.cs
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\obj\Debug\net6.0\RegExp.csproj.CoreCompileInputs.cache
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\obj\Debug\net6.0\RegExp.dll
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\obj\Debug\net6.0\refint\RegExp.dll
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\obj\Debug\net6.0\RegExp.pdb
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\obj\Debug\net6.0\RegExp.genruntimeconfig.cache
+F:\УНИВЕР КОМП\ООП\lab4 oleg\RegExp\obj\Debug\net6.0\ref\RegExp.dll

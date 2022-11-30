@@ -1,0 +1,30 @@
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\bin\Debug\net6.0\lab42regexp.exe
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\bin\Debug\net6.0\lab42regexp.deps.json
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\bin\Debug\net6.0\lab42regexp.runtimeconfig.json
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\bin\Debug\net6.0\lab42regexp.dll
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\bin\Debug\net6.0\lab42regexp.pdb
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.csproj.AssemblyReference.cache
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.GeneratedMSBuildEditorConfig.editorconfig
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.AssemblyInfoInputs.cache
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.AssemblyInfo.cs
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.csproj.CoreCompileInputs.cache
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.dll
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\refint\lab42regexp.dll
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.pdb
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.genruntimeconfig.cache
+F:\УНИВЕР КОМП\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\ref\lab42regexp.dll
+F:\ООП\lab4 oleg\lab42regexp\bin\Debug\net6.0\lab42regexp.exe
+F:\ООП\lab4 oleg\lab42regexp\bin\Debug\net6.0\lab42regexp.deps.json
+F:\ООП\lab4 oleg\lab42regexp\bin\Debug\net6.0\lab42regexp.runtimeconfig.json
+F:\ООП\lab4 oleg\lab42regexp\bin\Debug\net6.0\lab42regexp.dll
+F:\ООП\lab4 oleg\lab42regexp\bin\Debug\net6.0\lab42regexp.pdb
+F:\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.csproj.AssemblyReference.cache
+F:\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.GeneratedMSBuildEditorConfig.editorconfig
+F:\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.AssemblyInfoInputs.cache
+F:\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.AssemblyInfo.cs
+F:\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.csproj.CoreCompileInputs.cache
+F:\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.dll
+F:\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\refint\lab42regexp.dll
+F:\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.pdb
+F:\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\lab42regexp.genruntimeconfig.cache
+F:\ООП\lab4 oleg\lab42regexp\obj\Debug\net6.0\ref\lab42regexp.dll
