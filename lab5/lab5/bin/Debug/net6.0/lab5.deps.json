@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lab5/1.0.0": {
+        "dependencies": {
+          "PhonesLib": "1.0.0"
+        },
+        "runtime": {
+          "lab5.dll": {}
+        }
+      },
+      "PhonesLib/1.0.0": {
+        "runtime": {
+          "PhonesLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhonesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
