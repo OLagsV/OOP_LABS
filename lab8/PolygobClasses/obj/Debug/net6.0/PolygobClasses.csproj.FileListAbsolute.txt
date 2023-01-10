@@ -1,0 +1,12 @@
+C:\Users\goatl\source\repos\PolygonSolution\PolygobClasses\bin\Debug\net6.0\PolygobClasses.deps.json
+C:\Users\goatl\source\repos\PolygonSolution\PolygobClasses\bin\Debug\net6.0\PolygobClasses.dll
+C:\Users\goatl\source\repos\PolygonSolution\PolygobClasses\bin\Debug\net6.0\PolygobClasses.pdb
+C:\Users\goatl\source\repos\PolygonSolution\PolygobClasses\obj\Debug\net6.0\PolygobClasses.csproj.AssemblyReference.cache
+C:\Users\goatl\source\repos\PolygonSolution\PolygobClasses\obj\Debug\net6.0\PolygobClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goatl\source\repos\PolygonSolution\PolygobClasses\obj\Debug\net6.0\PolygobClasses.AssemblyInfoInputs.cache
+C:\Users\goatl\source\repos\PolygonSolution\PolygobClasses\obj\Debug\net6.0\PolygobClasses.AssemblyInfo.cs
+C:\Users\goatl\source\repos\PolygonSolution\PolygobClasses\obj\Debug\net6.0\PolygobClasses.csproj.CoreCompileInputs.cache
+C:\Users\goatl\source\repos\PolygonSolution\PolygobClasses\obj\Debug\net6.0\PolygobClasses.dll
+C:\Users\goatl\source\repos\PolygonSolution\PolygobClasses\obj\Debug\net6.0\refint\PolygobClasses.dll
+C:\Users\goatl\source\repos\PolygonSolution\PolygobClasses\obj\Debug\net6.0\PolygobClasses.pdb
+C:\Users\goatl\source\repos\PolygonSolution\PolygobClasses\obj\Debug\net6.0\ref\PolygobClasses.dll

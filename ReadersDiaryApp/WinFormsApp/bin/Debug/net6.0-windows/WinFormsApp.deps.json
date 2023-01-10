@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsApp/1.0.0": {
+        "dependencies": {
+          "ReadersDiary": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsApp.dll": {}
+        }
+      },
+      "ReadersDiary/1.0.0": {
+        "runtime": {
+          "ReadersDiary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReadersDiary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

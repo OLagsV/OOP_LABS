@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "hGM0TxK8UjueaPaJpalhm6TzIs9tKMBAIf/0E/Z8UE2geKC+lT8h6k4OVQzlelN9qxuRgYoofo5+0/dPh8fM0A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\popyg\\Desktop\\lab9\\Lab2arr\\LAB2Array.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\popyg\\Desktop\\lab9\\IntegralLib\\ArrLib.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\popyg\\Desktop\\lab9\\IntegralLib\\ArrLib.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

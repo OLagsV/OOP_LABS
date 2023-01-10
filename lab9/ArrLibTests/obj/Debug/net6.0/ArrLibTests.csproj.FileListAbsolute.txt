@@ -1,0 +1,202 @@
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\testhost.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\testhost.exe
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ArrLibTests.deps.json
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ArrLibTests.runtimeconfig.json
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ArrLibTests.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ArrLibTests.pdb
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ArrLib.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\bin\Debug\net6.0\ArrLib.pdb
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\obj\Debug\net6.0\ArrLibTests.csproj.AssemblyReference.cache
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\obj\Debug\net6.0\ArrLibTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\obj\Debug\net6.0\ArrLibTests.AssemblyInfoInputs.cache
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\obj\Debug\net6.0\ArrLibTests.AssemblyInfo.cs
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\obj\Debug\net6.0\ArrLibTests.csproj.CoreCompileInputs.cache
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\obj\Debug\net6.0\ArrLibTests.csproj.CopyComplete
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\obj\Debug\net6.0\ArrLibTests.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\obj\Debug\net6.0\refint\ArrLibTests.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\obj\Debug\net6.0\ArrLibTests.pdb
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\obj\Debug\net6.0\ArrLibTests.genruntimeconfig.cache
+D:\УНИВЕР КОМП\ООП\lab2 — копия\ArrLibTests\obj\Debug\net6.0\ref\ArrLibTests.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\testhost.exe
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\testhost.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ArrLibTests.deps.json
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ArrLibTests.runtimeconfig.json
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ArrLibTests.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ArrLibTests.pdb
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ArrLib.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\bin\Debug\net6.0\ArrLib.pdb
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\obj\Debug\net6.0\ArrLibTests.csproj.AssemblyReference.cache
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\obj\Debug\net6.0\ArrLibTests.GeneratedMSBuildEditorConfig.editorconfig
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\obj\Debug\net6.0\ArrLibTests.AssemblyInfoInputs.cache
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\obj\Debug\net6.0\ArrLibTests.AssemblyInfo.cs
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\obj\Debug\net6.0\ArrLibTests.csproj.CoreCompileInputs.cache
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\obj\Debug\net6.0\ArrLibTests.csproj.CopyComplete
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\obj\Debug\net6.0\ArrLibTests.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\obj\Debug\net6.0\refint\ArrLibTests.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\obj\Debug\net6.0\ArrLibTests.pdb
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\obj\Debug\net6.0\ArrLibTests.genruntimeconfig.cache
+F:\УНИВЕР КОМП\ООП\oop lab2\ArrLibTests\obj\Debug\net6.0\ref\ArrLibTests.dll

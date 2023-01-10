@@ -1,0 +1,24 @@
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3\FitnesTrainingList\FitnesTrainingList\bin\Debug\net6.0\FitnesTrainingList.deps.json
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3\FitnesTrainingList\FitnesTrainingList\bin\Debug\net6.0\FitnesTrainingList.dll
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3\FitnesTrainingList\FitnesTrainingList\bin\Debug\net6.0\FitnesTrainingList.pdb
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\FitnesTrainingList.csproj.AssemblyReference.cache
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\FitnesTrainingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\FitnesTrainingList.AssemblyInfoInputs.cache
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\FitnesTrainingList.AssemblyInfo.cs
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\FitnesTrainingList.csproj.CoreCompileInputs.cache
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\FitnesTrainingList.dll
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\refint\FitnesTrainingList.dll
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\FitnesTrainingList.pdb
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\ref\FitnesTrainingList.dll
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3 clear\FitnesTrainingList\FitnesTrainingList\bin\Debug\net6.0\FitnesTrainingList.deps.json
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3 clear\FitnesTrainingList\FitnesTrainingList\bin\Debug\net6.0\FitnesTrainingList.dll
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3 clear\FitnesTrainingList\FitnesTrainingList\bin\Debug\net6.0\FitnesTrainingList.pdb
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\FitnesTrainingList.csproj.AssemblyReference.cache
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\FitnesTrainingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\FitnesTrainingList.AssemblyInfoInputs.cache
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\FitnesTrainingList.AssemblyInfo.cs
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\FitnesTrainingList.csproj.CoreCompileInputs.cache
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\FitnesTrainingList.dll
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\refint\FitnesTrainingList.dll
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\FitnesTrainingList.pdb
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try3 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\ref\FitnesTrainingList.dll
