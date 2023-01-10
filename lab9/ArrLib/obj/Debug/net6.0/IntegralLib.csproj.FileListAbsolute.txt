@@ -1,0 +1,24 @@
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\bin\Debug\net6.0\IntegralLib.deps.json
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\bin\Debug\net6.0\IntegralLib.dll
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\bin\Debug\net6.0\IntegralLib.pdb
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.csproj.AssemblyReference.cache
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.AssemblyInfoInputs.cache
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.AssemblyInfo.cs
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.csproj.CoreCompileInputs.cache
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.dll
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\refint\IntegralLib.dll
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\IntegralLib.pdb
+E:\УНИВЕР КОМП\ООП\lab2\IntegralLib\obj\Debug\net6.0\ref\IntegralLib.dll
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\bin\Debug\net6.0\IntegralLib.deps.json
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\bin\Debug\net6.0\IntegralLib.dll
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\bin\Debug\net6.0\IntegralLib.pdb
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\IntegralLib.csproj.AssemblyReference.cache
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\IntegralLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\IntegralLib.AssemblyInfoInputs.cache
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\IntegralLib.AssemblyInfo.cs
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\IntegralLib.csproj.CoreCompileInputs.cache
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\IntegralLib.dll
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\refint\IntegralLib.dll
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\IntegralLib.pdb
+E:\УНИВЕР КОМП\ООП\lab2 — копия\IntegralLib\obj\Debug\net6.0\ref\IntegralLib.dll

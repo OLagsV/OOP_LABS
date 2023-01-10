@@ -1,0 +1,72 @@
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\bin\Debug\net6.0\Lab2Integral.exe
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\bin\Debug\net6.0\Lab2Integral.deps.json
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\bin\Debug\net6.0\Lab2Integral.runtimeconfig.json
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\bin\Debug\net6.0\Lab2Integral.dll
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\bin\Debug\net6.0\Lab2Integral.pdb
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\bin\Debug\net6.0\IntegralLib.dll
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\bin\Debug\net6.0\IntegralLib.pdb
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.csproj.AssemblyReference.cache
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.GeneratedMSBuildEditorConfig.editorconfig
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.AssemblyInfoInputs.cache
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.AssemblyInfo.cs
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.csproj.CoreCompileInputs.cache
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.csproj.CopyComplete
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.dll
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\obj\Debug\net6.0\refint\Lab2Integral.dll
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.pdb
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.genruntimeconfig.cache
+E:\УНИВЕР КОМП\ООП\lab2\Lab2Integral\obj\Debug\net6.0\ref\Lab2Integral.dll
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\bin\Debug\net6.0\Lab2Integral.exe
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\bin\Debug\net6.0\Lab2Integral.deps.json
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\bin\Debug\net6.0\Lab2Integral.runtimeconfig.json
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\bin\Debug\net6.0\Lab2Integral.dll
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\bin\Debug\net6.0\Lab2Integral.pdb
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.csproj.AssemblyReference.cache
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.GeneratedMSBuildEditorConfig.editorconfig
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.AssemblyInfoInputs.cache
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.AssemblyInfo.cs
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.csproj.CoreCompileInputs.cache
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.csproj.CopyComplete
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.dll
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\refint\Lab2Integral.dll
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.pdb
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.genruntimeconfig.cache
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\ref\Lab2Integral.dll
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\bin\Debug\net6.0\ArrLib.dll
+E:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\bin\Debug\net6.0\ArrLib.pdb
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\bin\Debug\net6.0\Lab2Integral.exe
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\bin\Debug\net6.0\Lab2Integral.deps.json
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\bin\Debug\net6.0\Lab2Integral.runtimeconfig.json
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\bin\Debug\net6.0\Lab2Integral.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\bin\Debug\net6.0\Lab2Integral.pdb
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\bin\Debug\net6.0\ArrLib.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\bin\Debug\net6.0\ArrLib.pdb
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.csproj.AssemblyReference.cache
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.AssemblyInfoInputs.cache
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.AssemblyInfo.cs
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.csproj.CoreCompileInputs.cache
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.csproj.CopyComplete
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\refint\Lab2Integral.dll
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.pdb
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\Lab2Integral.genruntimeconfig.cache
+D:\УНИВЕР КОМП\ООП\lab2 — копия\Lab2Integral\obj\Debug\net6.0\ref\Lab2Integral.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\bin\Debug\net6.0\Lab2Integral.exe
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\bin\Debug\net6.0\Lab2Integral.deps.json
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\bin\Debug\net6.0\Lab2Integral.runtimeconfig.json
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\bin\Debug\net6.0\Lab2Integral.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\bin\Debug\net6.0\Lab2Integral.pdb
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\bin\Debug\net6.0\ArrLib.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\bin\Debug\net6.0\ArrLib.pdb
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.csproj.AssemblyReference.cache
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.GeneratedMSBuildEditorConfig.editorconfig
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.AssemblyInfoInputs.cache
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.AssemblyInfo.cs
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.csproj.CoreCompileInputs.cache
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.csproj.CopyComplete
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\obj\Debug\net6.0\refint\Lab2Integral.dll
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.pdb
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\obj\Debug\net6.0\Lab2Integral.genruntimeconfig.cache
+F:\УНИВЕР КОМП\ООП\oop lab2\Lab2Integral\obj\Debug\net6.0\ref\Lab2Integral.dll

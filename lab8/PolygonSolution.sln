@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp", "WinFormsApp\WinFormsApp.csproj", "{F80DDB32-1DE5-4DBF-9899-8984B15F2524}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolygonClasses", "PolygobClasses\PolygonClasses.csproj", "{797288EC-AB2B-4F94-95F9-F78BA758D903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F80DDB32-1DE5-4DBF-9899-8984B15F2524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80DDB32-1DE5-4DBF-9899-8984B15F2524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80DDB32-1DE5-4DBF-9899-8984B15F2524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80DDB32-1DE5-4DBF-9899-8984B15F2524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797288EC-AB2B-4F94-95F9-F78BA758D903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797288EC-AB2B-4F94-95F9-F78BA758D903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797288EC-AB2B-4F94-95F9-F78BA758D903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797288EC-AB2B-4F94-95F9-F78BA758D903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {834303CC-43EF-49C5-9ED6-25456E7FA8E8}
+	EndGlobalSection
+EndGlobal

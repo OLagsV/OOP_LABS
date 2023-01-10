@@ -1,0 +1,48 @@
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\FitnesTrainingList\FitnesTrainingList\bin\Debug\net6.0\ReadersDiary.deps.json
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\FitnesTrainingList\FitnesTrainingList\bin\Debug\net6.0\ReadersDiary.dll
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\FitnesTrainingList\FitnesTrainingList\bin\Debug\net6.0\ReadersDiary.pdb
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\ReadersDiary.csproj.AssemblyReference.cache
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\ReadersDiary.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\ReadersDiary.AssemblyInfoInputs.cache
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\ReadersDiary.AssemblyInfo.cs
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\ReadersDiary.csproj.CoreCompileInputs.cache
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\ReadersDiary.dll
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\refint\ReadersDiary.dll
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\ReadersDiary.pdb
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\FitnesTrainingList\FitnesTrainingList\obj\Debug\net6.0\ref\ReadersDiary.dll
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\ReadersDiaryApp\ReadersDiary\bin\Debug\net6.0\ReadersDiary.deps.json
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\ReadersDiaryApp\ReadersDiary\bin\Debug\net6.0\ReadersDiary.dll
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\ReadersDiaryApp\ReadersDiary\bin\Debug\net6.0\ReadersDiary.pdb
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.csproj.AssemblyReference.cache
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.AssemblyInfoInputs.cache
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.AssemblyInfo.cs
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.csproj.CoreCompileInputs.cache
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.dll
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\refint\ReadersDiary.dll
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.pdb
+D:\УНИВЕР КОМП\ОПП 6 ЛАБА\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ref\ReadersDiary.dll
+C:\Users\popyg\Desktop\try13 clear\ReadersDiaryApp\ReadersDiary\bin\Debug\net6.0\ReadersDiary.deps.json
+C:\Users\popyg\Desktop\try13 clear\ReadersDiaryApp\ReadersDiary\bin\Debug\net6.0\ReadersDiary.dll
+C:\Users\popyg\Desktop\try13 clear\ReadersDiaryApp\ReadersDiary\bin\Debug\net6.0\ReadersDiary.pdb
+C:\Users\popyg\Desktop\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.csproj.AssemblyReference.cache
+C:\Users\popyg\Desktop\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popyg\Desktop\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.AssemblyInfoInputs.cache
+C:\Users\popyg\Desktop\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.AssemblyInfo.cs
+C:\Users\popyg\Desktop\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.csproj.CoreCompileInputs.cache
+C:\Users\popyg\Desktop\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.dll
+C:\Users\popyg\Desktop\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\refint\ReadersDiary.dll
+C:\Users\popyg\Desktop\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.pdb
+C:\Users\popyg\Desktop\try13 clear\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ref\ReadersDiary.dll
+C:\Users\popyg\Desktop\lab6\ReadersDiaryApp\ReadersDiary\bin\Debug\net6.0\ReadersDiary.deps.json
+C:\Users\popyg\Desktop\lab6\ReadersDiaryApp\ReadersDiary\bin\Debug\net6.0\ReadersDiary.dll
+C:\Users\popyg\Desktop\lab6\ReadersDiaryApp\ReadersDiary\bin\Debug\net6.0\ReadersDiary.pdb
+C:\Users\popyg\Desktop\lab6\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.csproj.AssemblyReference.cache
+C:\Users\popyg\Desktop\lab6\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popyg\Desktop\lab6\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.AssemblyInfoInputs.cache
+C:\Users\popyg\Desktop\lab6\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.AssemblyInfo.cs
+C:\Users\popyg\Desktop\lab6\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.csproj.CoreCompileInputs.cache
+C:\Users\popyg\Desktop\lab6\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.dll
+C:\Users\popyg\Desktop\lab6\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\refint\ReadersDiary.dll
+C:\Users\popyg\Desktop\lab6\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ReadersDiary.pdb
+C:\Users\popyg\Desktop\lab6\ReadersDiaryApp\ReadersDiary\obj\Debug\net6.0\ref\ReadersDiary.dll
